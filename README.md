@@ -1,5 +1,8 @@
 ## About Me
-Ashraful Islam Rocky has recently graduated from the Department of Civil Engineeering at Bangladesh University of Engineering and Technology (BUET) with a CGPA of 3.39 (out of 4.00). His undergrade major was Structural Engineering and minor was Geotechnical Engineering. Currently he is looking for pursuing a Master's or Ph.D. in Structural Engineering from the Department of Civil Engineering.
+Ashraful Islam Rocky has recently graduated from the Department of Civil Engineeering at Bangladesh University of Engineering and Technology (BUET) with a CGPA of 3.39 (out of 4.00). His undergrade major was Structural Engineering and minor was Geotechnical Engineering. Currently he is looking for pursuing a Master's or Ph.D. in Structural Engineering.
+</br>
+His undergrade thesis topic was "A study on Soil-Structure Interaction and Scouring Effects on the Seismic Response of a Three Span RCC Girder Bridge".
+
 
 <!--
 **Ashraful-Islam-Rocky/Ashraful-Islam-Rocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
