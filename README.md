@@ -1,7 +1,7 @@
 ## About Me
 Ashraful Islam Rocky has recently graduated from the Department of Civil Engineeering at Bangladesh University of Engineering and Technology (BUET) with a CGPA of 3.39 (out of 4.00). His undergrade major was Structural Engineering and minor was Geotechnical Engineering. Currently he is looking for pursuing a Master's or Ph.D. in Structural Engineering.
-</br>
-His undergrade thesis topic was "A study on Soil-Structure Interaction and Scouring Effects on the Seismic Response of a Three Span RCC Girder Bridge".
+
+He has worked on soil-structure interaction and scouring effects on the seismic response of a three span RCC girder bridge under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=Cw9-KMIAAAAJ" target="_blank">Dr. Shameem Ahmed</a>
 
 
 <!--
